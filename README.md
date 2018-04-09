@@ -1,8 +1,8 @@
 # stackscore
 
-This is a small guide to make a scoreboard with Stackoverflow reputation points.
+This is a small guide to make a scoreboard with Stackoverflow reputation points. Using Stackexchange API we can get data from Stackoverflow as a json object.
 
-I used StackExchange API to get data from Stackoverflow and append them to table rows in a table.
+## DEMO : https://nuwan94.github.io/stackscore/
 
 ## Usage 
 1. Add your ids seperated with `;` (semicolon) in `userids`.

@@ -2,7 +2,7 @@
 
 This is a simple way to create a scoreboard for Stackoverflow. Using Stackexchange API we can get the data as a json object.
 
-#### DEMO : https://nuwan94.github.io/stackscore/
+#### DEMO : https://nuwan94.github.io/Stack-Score-Board
 
 ## Usage 
 1. Open stackscore.js in a Editor. Add set of stackoverflow user IDs seperated with semicolon `;` (except last id).
